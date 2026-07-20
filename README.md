@@ -73,23 +73,6 @@
   <img src="https://img.shields.io/badge/OOP-Object--Oriented-green?style=for-the-badge" alt="OOP" />
 </div>
 
-<div>
-  <h1 align="left" style="margin:24px 0 16px;">GitHub Stats</h1>
-<div>
-  <h1 align="left">GitHub Stats</h1>
-  <div align="center">
-    <img src="./profile/stats.svg" alt="Stats">
-  </div>
-  <div align="center">
-    <div>
-      <img src="./profile/stats.svg" alt="Stats">
-    </div>
-    <div>
-      <img src="./profile/top-langs.svg" alt="Top Languages">
-    </div>
-  </div>
-</div>
-
 <h2 align="left">Profile Views | GitHub</h2>
 
 <div align="center">
