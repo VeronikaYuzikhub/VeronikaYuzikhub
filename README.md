@@ -55,13 +55,15 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img src="https://jsdelivr.net" height="40" alt="sqlite logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40">
 </div>
 
 <p align="left">DevOps</p>
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40">
 </div>
 
 <p align="left">Principles & Concepts</p>
@@ -70,6 +72,23 @@
   <img src="https://img.shields.io/badge/SOLID-Principles-blue?style=for-the-badge" alt="SOLID" />
   <img width="12" />
   <img src="https://img.shields.io/badge/OOP-Object--Oriented-green?style=for-the-badge" alt="OOP" />
+</div>
+
+<div>
+  <h1 align="left" style="margin:24px 0 16px;">GitHub Stats</h1>
+<div>
+  <h1 align="left">GitHub Stats</h1>
+  <div align="center">
+    <img src="./profile/stats.svg" alt="Stats">
+  </div>
+  <div align="center">
+    <div>
+      <img src="./profile/stats.svg" alt="Stats">
+    </div>
+    <div>
+      <img src="./profile/top-langs.svg" alt="Top Languages">
+    </div>
+  </div>
 </div>
 
 <h2 align="left">Profile Views | GitHub</h2>
