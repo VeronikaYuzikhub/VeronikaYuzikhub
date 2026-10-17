@@ -76,46 +76,31 @@
   <img src="https://img.shields.io/badge/OOP-Object--Oriented%20Programming-purple?style=for-the-badge" alt="OOP" />
 </p>
 
+<ul>
+  <li><b>DRY — Don't Repeat Yourself:</b> avoid duplicating the same knowledge or logic.</li>
+  <li><b>KISS — Keep It Simple, Stupid:</b> prefer simple and understandable solutions.</li>
+  <li><b>YAGNI — You Aren't Gonna Need It:</b> do not implement functionality until it is actually needed.</li>
+</ul>
+
 <h3>SOLID Principles</h3>
 
 <ul>
-  <li><b>S — Single Responsibility Principle:</b> one reason to change</li>
-  <li><b>O — Open/Closed Principle:</b> open for extension, closed for modification</li>
-  <li><b>L — Liskov Substitution Principle:</b> subtypes must be substitutable for their base types</li>
-  <li><b>I — Interface Segregation Principle:</b> prefer small, focused interfaces</li>
-  <li><b>D — Dependency Inversion Principle:</b> depend on abstractions, not concrete implementations</li>
+  <li><b>S — Single Responsibility Principle:</b> a class should have one reason to change.</li>
+  <li><b>O — Open/Closed Principle:</b> software entities should be open for extension but closed for modification.</li>
+  <li><b>L — Liskov Substitution Principle:</b> subtypes should be usable wherever their base types are expected.</li>
+  <li><b>I — Interface Segregation Principle:</b> clients should not depend on methods they do not use.</li>
+  <li><b>D — Dependency Inversion Principle:</b> depend on abstractions rather than concrete implementations.</li>
 </ul>
 
-<h3>Code Quality & Design Principles</h3>
+<h3>Additional Design Principles</h3>
 
 <ul>
-  <li>DRY — Don't Repeat Yourself</li>
-  <li>KISS — Keep It Simple, Stupid</li>
-  <li>YAGNI — You Aren't Gonna Need It</li>
-  <li>Separation of Concerns (SoC)</li>
-  <li>Composition over Inheritance</li>
-  <li>High Cohesion, Low Coupling</li>
-  <li>Encapsulate What Varies</li>
-  <li>Program to an Interface, Not an Implementation</li>
-  <li>Principle of Least Knowledge (Law of Demeter)</li>
-  <li>Fail Fast</li>
-  <li>Principle of Least Astonishment</li>
-  <li>Keep Abstractions at the Appropriate Level</li>
-  <li>Explicit Dependencies</li>
-  <li>Minimize Shared Mutable State</li>
-  <li>Prefer Immutability Where Appropriate</li>
-  <li>Separation of Interface and Implementation</li>
-  <li>Information Hiding</li>
-  <li>Dependency Injection</li>
-  <li>Favor Small, Focused Components</li>
-  <li>Boy Scout Rule — leave code cleaner than you found it</li>
-  <li>Principle of Reuse</li>
-  <li>Robustness Principle — be conservative in what you send and liberal in what you accept, with care</li>
-  <li>Command-Query Separation (CQS)</li>
-  <li>Don't Make Me Think — favor understandable interfaces</li>
-  <li>Design by Contract</li>
-  <li>Defensive Programming</li>
-  <li>Separation of Policy and Mechanism</li>
+  <li><b>Separation of Concerns (SoC):</b> separate different responsibilities into distinct components.</li>
+  <li><b>Composition over Inheritance:</b> prefer composing objects and delegating behavior when appropriate instead of relying on deep inheritance hierarchies.</li>
+  <li><b>High Cohesion:</b> keep the responsibilities of a module closely related to one clear purpose.</li>
+  <li><b>Low Coupling:</b> minimize dependencies between modules and concrete implementations.</li>
+  <li><b>Fail Fast:</b> detect invalid states and errors as early as possible.</li>
+  <li><b>Principle of Least Knowledge (Law of Demeter):</b> minimize knowledge of and dependence on the internal structure of other objects.</li>
 </ul>
 
 <h3>Object-Oriented Programming Concepts</h3>
@@ -125,7 +110,45 @@
   <li>Abstraction</li>
   <li>Inheritance</li>
   <li>Polymorphism</li>
-  <li>Association, Aggregation & Composition</li>
+  <li>Association</li>
+  <li>Aggregation</li>
+  <li>Composition</li>
+</ul>
+
+<h3>Anti-Patterns</h3>
+
+<ul>
+  <li>Anemic Domain Model</li>
+  <li>Fat Controller</li>
+  <li>God Object</li>
+  <li>Hierarchy Explosion</li>
+  <li>Tight Coupling</li>
+  <li>Spaghetti Code</li>
+  <li>Copy-Paste Programming</li>
+  <li>Lava Flow</li>
+  <li>Golden Hammer</li>
+  <li>Big Ball of Mud</li>
+  <li>Poltergeist</li>
+  <li>Yo-Yo Problem</li>
+  <li>Overengineering</li>
+  <li>Speculative Generality</li>
+  <li>Premature Optimization</li>
+  <li>Circular Dependency</li>
+</ul>
+
+<h3>Code Smells</h3>
+
+<ul>
+  <li>Duplicate Code</li>
+  <li>Magic Numbers</li>
+  <li>Magic Strings</li>
+  <li>Shotgun Surgery</li>
+  <li>Inappropriate Intimacy</li>
+  <li>Feature Envy</li>
+  <li>Data Clumps</li>
+  <li>Middle Man</li>
+  <li>Dead Code</li>
+  <li>Temporal Coupling</li>
 </ul>
 
 <h2>🏗️ Design Patterns — GoF</h2>
